@@ -26,7 +26,7 @@ Run MongoDB
   sudo chmod 777 db
 
 - cd /Users/Jeremy/Documents/richard/mongodb/bin
-  ./mongod
+- ./mongod
 
 MongoDB Quick Start 
 
