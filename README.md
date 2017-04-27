@@ -20,10 +20,10 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
 Run MongoDB
 
 - mkdir -p /data/db
-  cd /
-  sudo chmod 777 data
-  cd data
-  sudo chmod 777 db
+- cd /
+- sudo chmod 777 data
+- cd data
+- sudo chmod 777 db
 
 - cd /Users/Jeremy/Documents/richard/mongodb/bin
 - ./mongod
